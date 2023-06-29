@@ -6,4 +6,4 @@ Sistema de prueba enlazado a MySQL con el fin de ejecutar CRUD visual y control 
 2. Configurar controladores.
 3. Trabajado en MVC.
 
-![Logo de GitHub](./01pagAlumnos/visualizacion_final/proyecto_alumnos.png)
+![Logo de GitHub](./01pagAlumnos/visualizacion_final/proyecto_alumnos.PNG)
